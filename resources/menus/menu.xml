@@ -1,0 +1,5 @@
+<menu id="SettingsMainMenu">
+    <menu-item id="item_tempo">@Strings.settings_tempo</menu-item>
+    <menu-item id="item_vib_intensity">@Strings.settings_vibrate_intensity</menu-item>
+    <menu-item id="item_vib_length">@Strings.settings_vibrate_length</menu-item>
+</menu>

@@ -1,0 +1,36 @@
+<layout id="MainLayout">
+	<drawable id="black_background" />
+	<label 	
+		x="center" y="0" 
+		text="@Strings.tempo_label" 
+		font="Gfx.FONT_SMALL" color="Gfx.COLOR_WHITE"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" />
+
+	<label id="TempoLabel" 
+		x="center" y="30" 
+		text="@Strings.tempo_default_val" 
+		font="Gfx.FONT_NUMBER_HOT" color="Gfx.COLOR_WHITE" 
+		justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	<drawable id="hr_top_btm" />
+
+	<label  
+    	x="center" y="95" 
+    	text="@Strings.tempo_count" 
+    	font="Gfx.FONT_SMALL"
+    	color="Gfx.COLOR_WHITE" 
+    	justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    <label id="TempoCount" 
+    	x="center" y="115" 
+    	font="Gfx.FONT_NUMBER_MILD"
+    	color="Gfx.COLOR_WHITE" 
+    	justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    <drawable id="hr_middle_btm" />
+
+    <label id="TempoStatus" 
+    	x="center" y="160" 
+    	text="@Strings.tempo_status_off"
+    	font="Gfx.FONT_SMALL"
+    	color="Gfx.COLOR_WHITE" 
+    	justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    
+</layout>

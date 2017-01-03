@@ -1,0 +1,18 @@
+<strings>
+    <string id="AppName">Tempo Timer</string>
+
+    <string id="tempo_label">Tempo (sec)</string>
+    <string id="tempo_count">Count (#)</string>
+    <string id="tempo_default_val">0.00</string>
+    <string id="tempo_status_on">(Counting)</string>
+    <string id="tempo_status_off">(Stopped)</string>
+
+    <string id="settings_tempo">Tempo Rate</string>
+    <string id="settings_vibrate_intensity">Vibrate Intensity</string>
+    <string id="settings_vibrate_length">Vibrate Dur. (ms)</string>
+
+    <string id="tempo_picker_title">Pick a tempo</string>
+    <string id="vib_intensity_picker_title">Vibrattion Intensity</string>
+    <string id="vib_length_picker_title">Vibration Length (msec)</string>
+
+</strings>

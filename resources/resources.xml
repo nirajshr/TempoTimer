@@ -1,0 +1,8 @@
+<resources>
+	<properties>
+		<property id="tempo_rate" 			type="number">2000</property>
+		<property id="vibrate"				type="boolean">true</property>
+		<property id="vibrate_intensity"	type="number">60</property>
+		<property id="vibrate_length"		type="number">150</property>
+	</properties>
+</resources>

@@ -1,0 +1,13 @@
+
+<drawables>
+	<bitmap id="LauncherIcon" filename="launcher_icon.png" />
+	<drawable-list id="black_background">
+		<shape type="rectangle" color="Gfx.COLOR_BLACK" x="0" y="0" width="fill" height="fill" />
+	</drawable-list>
+	<drawable-list id="hr_top_btm">
+		<shape type="rectangle" color="Gfx.COLOR_BLUE" x="0" y="90" width="fill" height="2" />
+	</drawable-list>
+	<drawable-list id="hr_middle_btm">
+		<shape type="rectangle" color="Gfx.COLOR_BLUE" x="0" y="150" width="fill" height="2" />
+	</drawable-list>
+</drawables>
